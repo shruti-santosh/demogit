@@ -1,7 +1,7 @@
 #include<stdio.h>
-void main()
-{ int a,b,c;
-scanf("%d%d",&a,&b);
-c=a+b;
-printf("the sum is%d",c);
+void main(){ 
+  printf("There is one impostor among us.\n");
+  printf("Red is kinda sus.\n");
+  printf("I was in the comms.\n");
+  printf("Idiot I was not an impostor.");
 }
